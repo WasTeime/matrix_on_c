@@ -1,4 +1,4 @@
-# s21_matrix
+# matrix
 
 Реализация библиотеки matrix.h.
 
